@@ -22,3 +22,8 @@
     font-family: Libre;
     src: url(fonts/LibreBaskerville-Regular.ttf);
 }
+
+@font-face {
+    font-family: IBMP;
+    src: url(fonts/IBMPlexSans-Light.ttf);
+}
