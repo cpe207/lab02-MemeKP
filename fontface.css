@@ -27,3 +27,8 @@
     font-family: IBMP;
     src: url(fonts/IBMPlexSans-Light.ttf);
 }
+
+@font-face{
+    font-family: MitrTH;
+    src: url(fonts/Mitr-Regular.ttf)
+}
